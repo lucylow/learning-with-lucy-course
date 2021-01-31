@@ -3,6 +3,7 @@ description: 'machine learning '
 template:
   repo: learning-with-lucy-template
   name: learning-with-lucy
+  description: ml
 before:
   - type: createIssue
     title: Welcome!
